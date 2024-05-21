@@ -1,0 +1,84 @@
+﻿  oop_ Bank System_ui_10.cpp
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsUser.h(200,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsUser.h(26,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsBankClient.h(207,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsBankClient.h(152,12):
+  see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsBankClient.h(163,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsBankClient.h(164,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsBankClient.h(165,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsBankClient.h(422,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsBankClient.h(435,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'oop_%20Bank%20System_ui_10.cpp')
+  
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsBankClient.h(377): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsBankClient.h(439): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\oop_ Bank System_ui_10\clsUser.h(362): warning C4715: 'clsUser::Save': not all control paths return a value
+  oop_ Bank System_ui_10.vcxproj -> C:\Users\olaal\Desktop\Hadhud\oop2\oop_ Bank System_ui_17_to_23\x64\Debug\oop_ Bank System_ui_10.exe
